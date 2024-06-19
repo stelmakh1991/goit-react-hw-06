@@ -1,4 +1,3 @@
-import { Form, Formik } from "formik";
 import s from "./SearchBox.module.css";
 import { useDispatch, useSelector } from "react-redux";
 import { changeFilter, filterSelector } from "../../redux/filtersSlice";
